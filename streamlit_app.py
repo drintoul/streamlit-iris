@@ -50,3 +50,4 @@ st.subheader('Prediction Probability')
 st.write(prediction_proba)
 
 #st.write(prediction_proba.header)
+st.write(type(prediction_proba))
